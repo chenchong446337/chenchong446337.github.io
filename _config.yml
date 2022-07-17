@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chong Chen"
+  name             : "Chong Chen M.D., Ph.D."
   avatar           : "profile1.png"
-  bio              : "An anesthesiologist and neuroscientist, interested in basic research of general anestheisa, pain and opioids"
+  bio              : "An anesthesiologist and neuroscientist, interested in basic research of general anestheisa, pain and opioids."
   location         : "Chapel Hill, NC"
-  employer         :
+  employer         : "UNC-Chapel Hill"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=oCdRoBoAAAAJ&hl=en"
-  email            :
+  email            : "chenchong446337@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
