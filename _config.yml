@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &chenchong446337
+  username               : chenchong446337
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Chong Chen"
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   bio              : "An anesthesiologist and neuroscientist, interested in basic research of general anestheisa, pain and opioids"
   location         : "Chapel Hill, NC"
   employer         :
