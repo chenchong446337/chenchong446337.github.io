@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Welcome to my Github page"
+title: "Welcome to my Github Pages"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+Thanks for visiting my personal Github Pages. I was born and grow up in China. After graduating from a medical school in China, I worked as an anesthesiologist in a hospital for about three years. 
 
 A data-driven personal website
 ======
