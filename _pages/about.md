@@ -7,7 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Thanks for visiting my personal Github Pages. I was born and grow up in China. After graduating from a medical school in China, I worked as an anesthesiologist in a hospital for about three years. 
+
+Thanks for visiting my personal Github Pages. Here I would like to share my personal career stories, scientific opinions, literature reviews and experiences of using R. Hope you can find something interesting, useful and inspirational here. 
+
+My backgroup
+-------
+I was born and grew up in China. After graduating from a medical school in China, I worked as an anesthesiologist in a hospital for about three years. Life as an anesthesiologist, especially a junior anesthesiologist, was extremely busy. We spent almost a whole day in the Operating Room without knowing the exact time at which we could finish the daily work. I rarely saw the sun during winter because we arrived at the office before sunrise and went out of the hospital after sunset. However, I did enjoy the time working as an anesthesiologist because nothing is more rewarding than a thanks from your patients when they recovered from general anesthesia. 
+
+I finally decided to quit my job to pursue basic research about anesthesia because one of my patients underwent intraoperative awareness during an ectopic pregnancy surgery. Intraoperative awareness is defined by both consciousness of explicit memory of surgical events. It is a dreaded complication of anesthetic practice that is associated with a high rate of posttraumatic stress disorder (PTSD). If you are not familiar with intraoperative awareness and want to know more, I recommend you to watch this movie: [*Awake*](https://www.imdb.com/title/tt0211933/). Although it has been more than 10 years, I still clearly remember what happened that day. The patient recovered from general anesthesia before the surgery was done. “I can feel the pain and hear the doctors’ conversation, but I can’t move” is the first sentence she told me. My supervisor and I kept her in the recovery room longer than usual and I talked with her a lot, trying to make her feel better. Although she said she felt much better during the following visitings, I know that the one hour surgery was a nightmare for her. For me, I was totally shocked by her experience, and started to think about how to avoid it. Modern anesthesia has been developed for more than a century, however, the exact neurobiological mechanisms underlying general anesthesia are still elusive. To prevent intraoperative awareness and other side effects related with general anesthetics, we need to know how general anesthesia works. Thus, I finally left the hospital, started my research career.
+
 
 A data-driven personal website
 ======
@@ -41,8 +49,6 @@ How to edit your site's GitHub repository
 ------
 Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
 For more info
 ------
