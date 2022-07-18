@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my Github Pages"
+title: "Welcome to my Github Pages (still under construction)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
